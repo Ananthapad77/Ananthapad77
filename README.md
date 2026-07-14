@@ -1,89 +1,86 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ananthapadmanabhan.G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=20" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C9BF0&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes+Enthusiast;Automating+Everything+with+Terraform;Building+Resilient+CI%2FCD+Pipelines;Always+Learning%2C+Always+Deploying" alt="Typing SVG" />
-  </a>
-</p>
+# Hi, I'm Ananthapadmanabhan G 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat&color=2c5364" alt="followers" />
-</p>
+### AWS | DevOps Engineer
 
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-2C9BF0?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://USERNAME.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Ananthapad77&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![Followers](https://img.shields.io/github/followers/Ananthapad77?label=Followers&style=for-the-badge&color=critical)](https://github.com/Ananthapad77?tab=followers)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthapadmanabhan-aws-devops/)
+[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.ananthapad7@gmail.com)
+
+</div>
 
 ---
 
-### 👋 About Me
+### 🤝 About Me
 
-- ☁️ I design and manage scalable **cloud infrastructure** on **AWS** and **Azure**, focusing on high availability and cost efficiency  
-- 🔁 I build automated **CI/CD pipelines** with Jenkins to ship code faster and safer  
-- 🐳 I work daily with **Docker** and **Kubernetes** to containerize and orchestrate microservices at scale  
-- 🌱 I love turning infrastructure into code using **Terraform** and **Ansible** — if it's manual, I automate it  
+- ☁️ I design and manage scalable **cloud infrastructure** on **AWS**, focusing on high availability and cost efficiency
+- 📋 I build automated **CI/CD pipelines** with **Jenkins** to ship code faster and safer
+- 🐳 I work daily with **Docker** and **Kubernetes** to containerize and orchestrate microservices at scale
+- 🌱 I love turning infrastructure into code using **Terraform** and **Ansible** — if it's manual, I automate it
 - ⚡ Fun fact: I've broken more staging environments than I can count — and fixed every single one 😄
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="65" alt="AWS"/><br><b>AWS</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="65" height="65" alt="Docker"/><br><b>Docker</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="65" height="65" alt="Kubernetes"/><br><b>Kubernetes</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="65" height="65" alt="Jenkins"/><br><b>Jenkins</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="65" height="65" alt="Terraform"/><br><b>Terraform</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="65" height="65" alt="Ansible"/><br><b>Ansible</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="65" height="65" alt="Git"/><br><b>Git</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/><br><b>Linux</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="65" height="65" alt="Python"/><br><b>Python</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2C9BF0&icon_color=2C9BF0&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2C9BF0&text_color=c9d1d9" width="30%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9BF0&fire=2C9BF0&currStreakLabel=2C9BF0" width="60%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ananthapad77&show_icons=true&theme=default&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthapad77&layout=compact&theme=default" width="38%" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=2C9BF0&line=2C9BF0&point=ffffff" width="95%" />
-</p>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-</p>
+📩 <b>Open to DevOps / Cloud Engineer opportunities</b> — feel free to reach out on <a href="https://www.linkedin.com/in/ananthapadmanabhan-aws-devops/">LinkedIn</a> or <a href="mailto:g.ananthapad7@gmail.com">Email</a>
 
----
-
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
-</h1>
-
-<p align="center"><i>Thanks for stopping by — let's build something scalable together! 🚀</i></p>
+</div>
