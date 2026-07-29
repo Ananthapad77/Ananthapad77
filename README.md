@@ -1,3 +1,9 @@
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4A90D9&height=220&section=header&text=G.%20Ananthapadmanabhan&fontSize=42&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20SRE&descSize=18&descAlignY=62&fontAlignY=38)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=SRE+Analyst+%E2%86%92+AWS+Cloud+%26+DevOps+Engineer;Building+with+AWS%2C+Docker%2C+Jenkins+%26+CI%2FCD;Currently+learning+Kubernetes+%26+Terraform" alt="Typing SVG" />
+</p>
+
 ### 🚀 SRE Analyst | Transitioning to AWS Cloud & DevOps Engineer
 
 For the past 2 years, I've worked in a production support and Site Reliability Engineering (SRE) environment — monitoring critical systems, managing incidents, troubleshooting infrastructure issues, and ensuring high service availability at Zeb and Avasoft.
