@@ -4,7 +4,7 @@
 
 ### 🚀 SRE Analyst | Transitioning to AWS Cloud & DevOps Engineer
 
-For the past 2 years, I've worked in a production support and Site Reliability Engineering (SRE) environment — monitoring critical systems, managing incidents, troubleshooting infrastructure issues, and ensuring high service availability at Zeb and Avasoft.
+For the past 2 years, I've worked in a production support and Site Reliability Engineering (SRE) environment — monitoring critical systems, managing incidents and ensuring high service availability at Zeb and Avasoft.
 
 During this journey, I developed a strong interest in cloud infrastructure, automation, and DevOps. I'm now building hands-on expertise in AWS through real-world projects involving highly-available architectures, containerization, Infrastructure as Code, and CI/CD.
 
