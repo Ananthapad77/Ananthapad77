@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=SRE+Analyst+%E2%86%92+AWS+Cloud+%26+DevOps+Engineer;Building+with+AWS%2C+Docker%2C+Jenkins+%26+CI%2FCD;Currently+learning+Kubernetes+%26+Terraform" alt="Typing SVG" />
 </p>
 
-### 🚀 Analyst |AWS Cloud & DevOps Engineer
+<h3 align="center">🚀 Analyst | AWS Cloud & DevOps Engineer</h3>
 
-For the past 2 years, I've worked in a AWS production environment — monitoring critical systems, managing incidents and ensuring high service availability at Zeb and Avasoft.
+For the past 2 years, I've worked in an AWS production environment — monitoring critical systems, managing incidents, and ensuring high service availability at **Zeb** and **Avasoft**.
 
 During this journey, I developed a strong interest in cloud infrastructure, automation, and DevOps. I'm now building hands-on expertise in AWS through real-world projects involving highly-available architectures, containerization, Infrastructure as Code, and CI/CD.
 
@@ -18,7 +18,7 @@ During this journey, I developed a strong interest in cloud infrastructure, auto
 
 **🚀 CI/CD:** Jenkins, GitHub Actions
 
-**📊 Monitoring & Observability:** Datadog, CloudWatch (Container Insights, custom alarms), SNS, Op Manager
+**📊 Monitoring & Observability:** Datadog, CloudWatch (Container Insights, custom alarms), SNS, OpManager
 
 **🔐 Compliance & Audit:** AWS Config, CloudTrail
 
@@ -55,7 +55,17 @@ I'm looking for opportunities where I can apply my SRE experience while growing 
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananthapad77&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananthapad77&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
 ### 📫 Contact
 
 📍 India | 📞 9995025990 | ✉️ g.ananthapad7@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/ananthapadmanabhan-aws-devops/) | 🔗 [GitHub](https://github.com/Ananthapad77)
