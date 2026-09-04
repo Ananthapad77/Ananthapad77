@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=SRE+Analyst+%E2%86%92+AWS+Cloud+%26+DevOps+Engineer;Building+with+AWS%2C+Docker%2C+Jenkins+%26+CI%2FCD;Currently+learning+Kubernetes+%26+Terraform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=AWS+Cloud+%26+DevOps+Engineer;Building+with+AWS%2C+Docker%2C+Jenkins+%26+CI%2FCD" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Analyst | AWS Cloud & DevOps Engineer</h3>
+<h3 align="center">🚀 AWS Cloud & DevOps Engineer</h3>
 
 For the past 2 years, I've worked in an AWS production environment — monitoring critical systems, managing incidents, and ensuring high service availability at **Zeb** and **Avasoft**.
 
